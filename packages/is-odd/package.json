@@ -1,0 +1,10 @@
+{
+  "name": "@novu/is-odd",
+  "version": "0.0.0",
+  "private": false,
+  "main": "dist/index.js",
+  "devDependencies": {},
+  "scripts": {
+    "build": "tsc index.ts --outDir dist"
+  }
+}
